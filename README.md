@@ -1,11 +1,11 @@
 
 Clone the project
 
-## `git clone https://github.com/gitmil/react-hooks-router.git`
+## `git clone https://github.com/gitmil/react-hooks-custom-fetch.git`
 
 change to the project directory
 
-## `cd react-hooks-router`
+## `cd react-hooks-custom-fetch`
 
 Install Dependencies:
 
